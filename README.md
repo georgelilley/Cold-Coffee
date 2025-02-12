@@ -30,4 +30,4 @@ This project introduced me to the fundamentals of generative audiovisual art. Si
 ✅ Exploring real-time generative art and AI-assisted creativity.
 
 🔗 View in the p5.js web editor:
-Cold Coffee Audiovisual Project
+[Cold Coffee Audiovisual Project](https://editor.p5js.org/lilley49/sketches/ieJdEUbva )
