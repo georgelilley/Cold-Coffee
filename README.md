@@ -1,16 +1,33 @@
-# Cold-Coffee
+🎨 Cold Coffee – Audiovisual Art Animation
 
-An audiovisual art animation program created using the p5.js library created for the song Cold Coffee by Galt MacDermot. 
+📌 Disclaimer
 
-I have not included the audio file in this project for obvious copyright reasons.
+This is a legacy project created in 2021 as part of my university studies. The code in this repository may not reflect best practices, but I believe it’s important to share as part of my development. Since then, I have focused on writing cleaner, more maintainable code, following principles outlined in Clean Code by Robert C. Martin.
+🎶 Project Overview
 
-This was one of my first projects, created in 2021.
+This project is an audiovisual animation program built using the p5.js library. It was designed to visualize the song Cold Coffee by Galt MacDermot through dynamic 3D visual art.
 
-Disclaimer:
+🔹 Key Features
 
-The code in this project is not clean, but I believe it's important to share it as part of my progression and development. Since learning more and committing to better practices, I now focus on writing clean, maintainable code, as outlined in Clean Code by Robert C. Martin.
+-  Uses p5.js to generate real-time visuals.
+-  Features 3D movement and dynamic visuals synced to the music.
+-  Inspired by title sequences from film, generative art, and creative coding pioneers like John Whitney.
 
-Access Code in P5.js web editor:
+🚨 Note: The original audio file is not included in this repository due to copyright restrictions.
+🎯 Research & Methodology
 
-https://editor.p5js.org/lilley49/sketches/ieJdEUbva
+This project explored creative coding as an approach to audio visualization, investigating:
 
+-  The advantages of custom-built code over pre-made VJ software.
+-  The role of data mappings in linking music to visuals dynamically.
+-  How timing and spatial positioning create an engaging 3D visualization experience.
+
+🚀 Future Reflection
+
+This project introduced me to the fundamentals of generative audiovisual art. Since then, my coding practices have evolved significantly, with a focus on:
+✅ Writing modular and maintainable code.
+✅ Improving performance and scalability.
+✅ Exploring real-time generative art and AI-assisted creativity.
+
+🔗 View in the p5.js web editor:
+Cold Coffee Audiovisual Project
